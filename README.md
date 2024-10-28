@@ -4,4 +4,4 @@
 <p>📖Além disso, estudo <strong>HTML CSS e JS </strong>,   para criar interfaces web modernas e funcionais.</p>
 <p>Ainda, estou cursando Engenharia da Computação</p>
 
-🚁Trabalho com gestão de sistemas de manutenção de aviação, mais especificamente Helicópteros.
+🚁Trabalho com gestão de sistemas de manutenção de aviação.
