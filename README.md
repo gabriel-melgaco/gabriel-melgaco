@@ -30,18 +30,6 @@ from the data model to the server it runs on.
 Inventory and order management built for an **Army Aviation Battalion**, replacing spreadsheet control
 of aircraft parts.
 
-- Item registry with **MPN / PN**, serial-number tracking, Kanban classification (Engine, Airframe,
-  Common) and equivalent-part mapping.
-- Stock by physical location (unit, section, shelf, case), with minimum-quantity and expiration alerts,
-  plus batch import from Excel spreadsheets.
-- Maintenance orders (**RMS**, **FSM**, **REQ**) with a full lifecycle state machine
-  (`NOT → OPEN → OPEN2 → CLOSE / CLOSE2 / CANCEL`) and urgency classes **RUSH / PROG / AOG**.
-- Aircraft origin/destination linking with component **TSN / TSO** hours, technical document tracking
-  (TEC PUB, DPE, EGLOG), invoice and log-card control, and Excel export.
-- Inflow/outflow registration with requester and reason; dashboard with live metrics, 7-day movement
-  charts and period filtering.
-- Audit trail via `created_by` / `updated_by` on every operation, with deletion blocked while a record
-  is still referenced elsewhere.
 
 `Django 5.2` · `PostgreSQL 15` · `Docker` · `Gunicorn + Nginx` · `openpyxl` · `Bootstrap` · `Chart.js`
 
@@ -115,7 +103,7 @@ Vitest), CI with GitHub Actions, and an unhealthy respect for backups that have 
 - 🎓 Computer Engineering undergraduate; background in Military Sciences and Information Technology.
 - 🌎 Open to **remote roles** or relocation. Portuguese native, English B1 (comfortable with technical docs).
 - 📫 Reach me at [megdev99@gmail.com](mailto:megdev99@gmail.com) or on
-  [LinkedIn](https://www.linkedin.com/in/SEU-SLUG-AQUI/).
+  [LinkedIn](https://www.linkedin.com/in/gabriel-melga%C3%A7o-614a18290/).
 
 ---
 
