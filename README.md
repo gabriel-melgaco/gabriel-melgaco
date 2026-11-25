@@ -7,7 +7,7 @@ reconcile with an ERP, and servers that cannot afford to be down. I'm a Brazilia
 years in technology and management, and I've been building with Python and Django for about three years —
 from the data model to the server it runs on.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--melgaco-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/SEU-SLUG-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--melgaco-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/gabriel-melga%C3%A7o-614a18290/)
 [![Email](https://img.shields.io/badge/Email-megdev99%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:megdev99@gmail.com)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://www.python.org/)
 
