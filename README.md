@@ -7,7 +7,7 @@ reconcile with an ERP, and servers that cannot afford to be down. I'm a Brazilia
 years in technology and management, and I've been building with Python and Django for about three years —
 from the data model to the server it runs on.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--melgaco-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/gabriel-melga%C3%A7o-614a18290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--melgaco-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/gabriel-melgaco/)
 [![Email](https://img.shields.io/badge/Email-megdev99%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:megdev99@gmail.com)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://www.python.org/)
 
@@ -103,7 +103,7 @@ Vitest), CI with GitHub Actions, and an unhealthy respect for backups that have 
 - 🎓 Computer Engineering undergraduate; background in Military Sciences and Information Technology.
 - 🌎 Open to **remote roles** or relocation. Portuguese native, English B1 (comfortable with technical docs).
 - 📫 Reach me at [megdev99@gmail.com](mailto:megdev99@gmail.com) or on
-  [LinkedIn](https://www.linkedin.com/in/gabriel-melga%C3%A7o-614a18290/).
+  [LinkedIn](https://www.linkedin.com/in/gabriel-melgaco/).
 
 ---
 
